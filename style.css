@@ -162,7 +162,7 @@ body {
         display: flex;
         flex-direction: column;
         width: 0;
-        height: calc(100vh - 65px);
+        min-height: 150px;
         position: absolute;
         top: 65px;
         right: 0;
